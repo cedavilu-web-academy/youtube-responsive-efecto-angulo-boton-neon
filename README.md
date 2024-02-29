@@ -1,4 +1,4 @@
-<h1>Carpeta base con el código HTML, para la construcción de una sección resposnive con efecto de fondo en ángulo / sesgado y un botón de neon profesional.</h1>
+<h1>Carpeta base con el código HTML, para la construcción de una sección responsive con efecto de fondo en ángulo / sesgado y un botón de neon profesional.</h1>
 <h2>Creado solo con HTML5 y CSS3</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
